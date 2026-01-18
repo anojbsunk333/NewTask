@@ -6,11 +6,11 @@ export default function Second() {
       <div className="mt-10 pt-10">
         <h2 className="text-[#f4efe7] text-[50px] mr-40 pr-20 leading-none ">
           Welcome to a world of wild CaliforniaWelcome to a world of wild
-          California desert with Capsules®, where you will desert with Capsules®,
-          where you will discover exquisite nature observing it discover
-          exquisite nature observing it from capsule houses, nestled in the from
-          capsule houses, nestled in the one of the most breath taking one of the
-          most breathtaking destination on the United States.
+          California desert with Capsules®, where you will desert with
+          Capsules®, where you will discover exquisite nature observing it
+          discover exquisite nature observing it from capsule houses, nestled in
+          the from capsule houses, nestled in the one of the most breath taking
+          one of the most breathtaking destination on the United States.
         </h2>
       </div>
 
